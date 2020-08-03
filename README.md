@@ -1,1 +1,1 @@
-# HEXAD
+# Lexics
